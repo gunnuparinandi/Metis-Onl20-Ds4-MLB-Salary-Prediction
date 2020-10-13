@@ -15,7 +15,7 @@ Models were built using Linear Regression packages in Scikit-Learn, while visual
 
 A presentation of the findings is included in this repository.
 
-The major finding in this analysis was the the highest correlated feature to Salary during the 2019 season was GIDP (grounds into double play). Historically this is not the case as RBI and are the highest correlated features with salary.
+The major finding in this analysis was that the highest correlated feature to Salary during the 2019 season was GIDP (grounds into double play). Historically this is not the case as RBI and are the highest correlated features with salary.
 
 Next Steps:
 1. Perform the same analysis on 2017 and 2018 data to see if we see the same pattern (GIDP being the highest correlated feature)
